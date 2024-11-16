@@ -40,7 +40,6 @@ $usuarios = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
         <input type="submit" value="Insertar">
     </form>
-
     <h1>Lista de Usuarios</h1>
     <table border="1">
         <tr>
